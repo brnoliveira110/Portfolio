@@ -8,7 +8,7 @@
       
       
    <div>      
-    <p><h3>Aqui está uma lista de alguns dos meus trabalhos anteriores.
+      <p><h3>Aqui está uma lista de alguns dos meus trabalhos anteriores.</h3>
   
   
        <ul>
